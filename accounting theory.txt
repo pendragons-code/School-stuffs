@@ -9,6 +9,8 @@ Accrual basis of accounting
 
 Consistency
   Once an accounting method is chosen, this ethod should be applied to all future accounting periods to enable meaningful comparison.
+  
+  [NCA] Unless there is a change in usage pattern, a business should use the same method of depreciation and rate of depreciation every financial period to enable meaningful comparison of net book value and NCA over time.
 
 Going Concern
   A business is assumed to have an indefinite economic life unless there is credible evidence that it may close down.
@@ -26,6 +28,8 @@ matching
 
 materiality
   Relevant information should be reportedin the financial statement if it is likely to make a difference to the decision-making process.
+  
+  [NCA] if the amount spent is insignificant to decision making, when compared to the size of income, profit, assets or equity of the business, it does not need to be reported in the FS(position) as an NCA. Instead it can be classed as a revenue expenditure andbe reported in the FS(performance) as an expense.
 
 monetary
   Only business transactions that can be measured in monetary terms are recorded.
