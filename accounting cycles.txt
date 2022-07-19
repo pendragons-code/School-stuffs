@@ -1,0 +1,13 @@
+page 19
+
+Identify and record:
+  Source documents are used to record transaction in the journal and the journal entries are posted to the ledger. (TRANSACTIONS ARE RECORDED DAILY!)
+
+Adjust:
+  The ending balances of ledger accounts are listed in a trial balance. Any adjusting entries are recorded in the journal and posted to the ledger. (Accounts are adjusted at least once in a fnancial year.)
+
+Report:
+  Based on the adjsted trial balance, the financial statements are prepared. Reports are prepared at least once is a financial year.
+
+Close:
+  After the financial statements are finalized, income, expenses, income summary, drawings and dividends accounts are closed by first passing journal entries before being posted to the ledger. Accounts must be closed at the end of the financial year only one time.
