@@ -1,0 +1,44 @@
+Accounting Entity:
+  The activities of a business are seperate from the actions of the owner. all transactions are recorded from the point of view from the business.
+
+Accounting Period
+  The life of the bussiness is divded into regular time intervals.
+
+Accrual basis of accounting
+  Business activities that have occurred, regardless of weather cash is paid or received, should be recorded in the relevant accounting period.
+
+Consistency
+  Once an accounting method is chosen, this ethod should be applied to all future accounting periods to enable meaningful comparison.
+
+Going Concern
+  A business is assumed to have an indefinite economic life unless there is credible evidence that it may close down.
+
+Historical cost
+  Transactions should be recorded at their original cost.
+
+matching
+  Expenses incurred must be matched against income earned in the same period to determine the profit for that period.
+
+  [TR] The business will record changes in allowance of impairment of trade receivables in the same financial period as credit sales was earned. The matching of expenses incurred to the income earned is in accordance to the matching theory. This expenses will be reported in the statement of financial performance.
+
+  [NCA] When a business use bib-current assets to generate income, a portion of the original cost of the non-current assets has to be recorded as depreciation expense in the statemen of financial performance. It will be matched against the income earned for the same financial period to arrie at the profit for the period.
+
+
+materiality
+  Relevant information should be reportedin the financial statement if it is likely to make a difference to the decision-making process.
+
+monetary
+  Only business transactions that can be measured in monetary terms are recorded.
+
+objectivity
+  Accounting information recorded must be supported by reliable and verifiable evidence so that financial statements will be free from opinions and biases.
+
+prudence
+  The accounting treatment chosen should be the one that least overstates assets and profits and least understates liabilities and losses.
+
+  [Inv] When the net realizable value of inventory falls below the original cost, the business must reduce the the value of the inventoryand record the potential loss as impairment loss of inventory even thought the inventory has not been sold.
+  
+  [TR] At the end of each financial period the business will estimate losses from debts that will be unpaid. This estimated sum will be recorded in the statement of financial position and is shown as a deduction against the book value of trade receivables. This is to ensure that reade receivabes balance is not overstated and reflects the net amount that is collectible.
+  
+revenue recognition
+  Revenue is earned when goods have been delivered of services have been provided. 
