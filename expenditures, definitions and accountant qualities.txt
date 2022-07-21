@@ -12,3 +12,15 @@ Professional Ethics:
   
 Role of accounting:
   Accounting is an information system that provides accounting information for decision making to stakeholders. This allows them to make informed decisions regarding the management of resources and performance of businesses.
+
+
+capital expenditures:
+  cost to buy and brin the NCA to their intended use
+  cost to enhance the NCA
+  provides benefits for more than 1 financial  year
+  recorded as NCA
+  
+revenue expenditure:
+  cost to operate repair and maintain the NCA in working condition
+  provides benefits within 1 financail year
+  recorded as expense
