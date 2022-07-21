@@ -1,0 +1,10 @@
+reducing balance method:  rate(cost - acc depn) = depn for the period
+straight line method:  rate(cost)= depn for the period
+
+
+reasons of depreciation:
+
+  Usage
+  wear and tear
+  Obsolescense and the advancements of tech
+  Legal limit (leasehold land can be help for a limited period of time
