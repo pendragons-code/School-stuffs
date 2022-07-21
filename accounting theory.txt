@@ -23,13 +23,13 @@ matching
 
   [TR] The business will record changes in allowance of impairment of trade receivables in the same financial period as credit sales was earned. The matching of expenses incurred to the income earned is in accordance to the matching theory. This expenses will be reported in the statement of financial performance.
 
-  [NCA] When a business use bib-current assets to generate income, a portion of the original cost of the non-current assets has to be recorded as depreciation expense in the statemen of financial performance. It will be matched against the income earned for the same financial period to arrie at the profit for the period.
+  [NCA] When a business use non-current assets to generate income, a portion of the original cost of the non-current assets has to be recorded as depreciation expense in the statemen of financial performance. It will be matched against the income earned for the same financial period to arrie at the profit for the period.
 
 
 materiality
-  Relevant information should be reportedin the financial statement if it is likely to make a difference to the decision-making process.
+  Relevant information should be reported in the financial statement if it is likely to make a difference to the decision-making process.
   
-  [NCA] if the amount spent is insignificant to decision making, when compared to the size of income, profit, assets or equity of the business, it does not need to be reported in the FS(position) as an NCA. Instead it can be classed as a revenue expenditure andbe reported in the FS(performance) as an expense.
+  [NCA] if the amount spent is insignificant to decision making, when compared to the size of income, profit, assets or equity of the business, it does not need to be reported in the FS(position) as an NCA. Instead it can be classed as a revenue expenditure and be reported in the FS(performance) as an expense.
 
 monetary
   Only business transactions that can be measured in monetary terms are recorded.
