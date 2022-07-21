@@ -1,5 +1,5 @@
 Accounting Entity:
-  The activities of a business are seperate from the actions of the owner. all transactions are recorded from the point of view from the business.
+  The activities of a business are seperate from the actions of the owner. All transactions are recorded from the point of view from the business.
 
 Accounting Period
   The life of the bussiness is divded into regular time intervals.
@@ -16,14 +16,14 @@ Going Concern
   A business is assumed to have an indefinite economic life unless there is credible evidence that it may close down.
 
 Historical cost
-  Transactions should be recorded at their original cost. And ust record assets at Original price even if market value has increased.
+  Transactions should be recorded at their original cost. And must record assets at original price even if market value has increased.
 
 matching
   Expenses incurred must be matched against income earned in the same period to determine the profit for that period.
 
   [TR] The business will record changes in allowance of impairment of trade receivables in the same financial period as credit sales was earned. The matching of expenses incurred to the income earned is in accordance to the matching theory. This expenses will be reported in the statement of financial performance.
 
-  [NCA] When a business use non-current assets to generate income, a portion of the original cost of the non-current assets has to be recorded as depreciation expense in the statemen of financial performance. It will be matched against the income earned for the same financial period to arrie at the profit for the period.
+  [NCA] When a business use non-current assets to generate income, a portion of the original cost of the non-current assets has to be recorded as depreciation expense in the statement of financial performance. It will be matched against the income earned for the same financial period to arrive at the profit for the period.
 
 
 materiality
