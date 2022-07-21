@@ -16,7 +16,7 @@ Going Concern
   A business is assumed to have an indefinite economic life unless there is credible evidence that it may close down.
 
 Historical cost
-  Transactions should be recorded at their original cost.
+  Transactions should be recorded at their original cost. And ust record assets at Original price even if market value has increased.
 
 matching
   Expenses incurred must be matched against income earned in the same period to determine the profit for that period.
