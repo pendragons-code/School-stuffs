@@ -21,4 +21,4 @@ This same ability to improve distribution and more change making for code better
     
     
 # Sorry devs
-To programmers, I know, that most of you will be laughing at what is said here but most of my classmates do not know what git is. Most of them are normies who can barely handle the installation of a chrome browser extension and the things they do will make you cry (DON'T TELL ME TO SHUT UP YOU KNOW IT IS TRUE). I have a git serever and I know why git is used and what it is about. And there are people who need to understand why I do these kinda things that only programmers will understand.
+To programmers, I know, that most of you will be laughing at what is said here but most of my classmates do not know what git is. Most of them are normies who can barely handle the installation of a chrome browser extension and the things they do will make you cry (DON'T TELL ME TO SHUT UP YOU KNOW IT IS TRUE). I have a git server and I know why git is used and what it is about. And there are people who need to understand why I do these kinda things that only programmers will understand.
