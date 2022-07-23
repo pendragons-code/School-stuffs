@@ -1,3 +1,3 @@
-Bank loan: Is the sum of money borrowed and is recorded n the FS as a NCL. It lasts more than 1 financial year which is set by the bank when making the loan.
+Bank loan recorded in FS as Long Term borrowings: Is the sum of money borrowed and is recorded n the FS as a NCL. It lasts more than 1 financial year which is set by the bank when making the loan.
 
 Bank overdraft: Bank overdraft: withdrawal from bank exceeds the amount available in the bank and is recorded in the FS as a current liability. The overdraft is also settled as a long as a deposit equal or more than the overraft is made.
