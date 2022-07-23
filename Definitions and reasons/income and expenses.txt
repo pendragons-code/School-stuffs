@@ -1,0 +1,12 @@
+Income and expenses: At the end of each month, when accounts are closed, they are moved to the income summary.
+
+[Expenses]:
+  Prepaid expanes: Expenses that has been paid for but has not yet been incurred. They are recorded as Current Assets
+  Expense payables: Expenses that has not yet been paid for but has already been incurred. Recorded as current liabilities.
+
+[Income]:
+ Income recieved in advance: Income that has been recieved despite services or goods have been provided. Recorded as current liabilities.
+ Income receivable: An income that is owed by someone who has not been paid up by the customer, but has already been earned. This is recorded as current assets.
+ 
+Relevant theories:
+matching, revenue recognition and accrual basis of accounting
