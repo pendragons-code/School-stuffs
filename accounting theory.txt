@@ -1,22 +1,34 @@
 Accounting Entity:
   The activities of a business are seperate from the actions of the owner. All transactions are recorded from the point of view from the business.
 
+
+
 Accounting Period
   The life of the bussiness is divded into regular time intervals.
 
+
+
 Accrual basis of accounting
-  Business activities that have occurred, regardless of weather cash is paid or received, should be recorded in the relevant accounting period.
+  Business activities that have occurred, regardless of whether cash is paid or received, should be recorded in the relevant accounting period.
+
+
 
 Consistency
   Once an accounting method is chosen, this ethod should be applied to all future accounting periods to enable meaningful comparison.
   
   [NCA] Unless there is a change in usage pattern, a business should use the same method of depreciation and rate of depreciation every financial period to enable meaningful comparison of net book value and NCA over time.
 
+
+
 Going Concern
   A business is assumed to have an indefinite economic life unless there is credible evidence that it may close down.
 
+
+
 Historical cost
   Transactions should be recorded at their original cost. And must record assets at original price even if market value has increased.
+
+
 
 matching
   Expenses incurred must be matched against income earned in the same period to determine the profit for that period.
@@ -26,23 +38,33 @@ matching
   [NCA] When a business use non-current assets to generate income, a portion of the original cost of the non-current assets has to be recorded as depreciation expense in the statement of financial performance. It will be matched against the income earned for the same financial period to arrive at the profit for the period.
 
 
+
+
 materiality
   Relevant information should be reported in the financial statement if it is likely to make a difference to the decision-making process.
   
   [NCA] if the amount spent is insignificant to decision making, when compared to the size of income, profit, assets or equity of the business, it does not need to be reported in the FS(position) as an NCA. Instead it can be classed as a revenue expenditure and be reported in the FS(performance) as an expense.
 
+
+
 monetary
   Only business transactions that can be measured in monetary terms are recorded.
+
+
 
 objectivity
   Accounting information recorded must be supported by reliable and verifiable evidence so that financial statements will be free from opinions and biases.
 
+
+
 prudence
   The accounting treatment chosen should be the one that least overstates assets and profits and least understates liabilities and losses.
 
-  [Inv] When the net realizable value of inventory falls below the original cost, the business must reduce the the value of the inventoryand record the potential loss as impairment loss of inventory even thought the inventory has not been sold.
+  [Inv] When the net realizable value of inventory falls below the original cost, the business must reduce the the value of the inventory and record the potential loss as impairment loss of inventory even thought the inventory has not been sold.
   
-  [TR] At the end of each financial period the business will estimate losses from debts that will be unpaid. This estimated sum will be recorded in the statement of financial position and is shown as a deduction against the book value of trade receivables. This is to ensure that reade receivabes balance is not overstated and reflects the net amount that is collectible.
+  [TR] At the end of each financial period the business will estimate losses from debts that will be unpaid. This estimated sum will be recorded in the statement of financial position and is shown as a deduction against the book value of trade receivables. This is to ensure that trade receivabes balance is not overstated and reflects the net amount that is collectible.
+  
+  
   
 revenue recognition
   Revenue is earned when goods have been delivered of services have been provided. 
