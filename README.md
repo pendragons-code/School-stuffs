@@ -10,3 +10,26 @@ Fair use is an affirmative defense that can be raised in response to claims by a
 Assets = liability + equity     
       
 Capital +income - expense - drawings      
+
+
+File system:
+```
+School-stuffs
+├── accounting cycles.txt
+├── accounting theory.txt
+├── Definitions and reasons
+│   ├── depreciation.txt
+│   ├── expenditures, definitions and accountant qualities.txt
+│   ├── income and expenses.txt
+│   ├── Internal control.txt
+│   ├── Ledger types.txt
+│   ├── Liabilities.txt
+│   └── Source documents.txt
+├── README.md
+└── stakeholders
+    ├── Interactions business and stakeholders.jpg
+    ├── Proprietorships2.jpg
+    ├── Proprietorships.jpg
+    ├── source credit.txt
+    └── Stakeholders actions.jpg
+```
