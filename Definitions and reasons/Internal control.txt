@@ -1,0 +1,10 @@
+Examples:
+  Segregation of Duties: When work duties are divided or segregated among different people to reduce the risk of error or inappropriate actions.
+  Bank reconciliation: Compare the records of te business and bank records to identify items that caused the differences between the ending balances in the business cash at bank account and the bank statement.
+  Authorisation: Obtain proper approvals for all payment by authorized personnel.
+  Custody of cash: Secure cheques and cash in a loked storage. Limiting cash to authorised personnel.
+
+Reasons:
+  To safeguard assets of the business
+  To ensure all items and trasactions are recorded correctly
+  To comply with laws and regulations
