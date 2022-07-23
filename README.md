@@ -15,8 +15,12 @@ Capital +income - expense - drawings
 File system:
 ```
 School-stuffs
+│     [Files]
 ├── accounting cycles.txt
 ├── accounting theory.txt
+├── README.md
+│
+│     [Folder]
 ├── Definitions and reasons
 │   ├── depreciation.txt
 │   ├── expenditures, definitions and accountant qualities.txt
@@ -25,7 +29,8 @@ School-stuffs
 │   ├── Ledger types.txt
 │   ├── Liabilities.txt
 │   └── Source documents.txt
-├── README.md
+│
+│     [Folder]
 └── stakeholders
     ├── Interactions business and stakeholders.jpg
     ├── Proprietorships2.jpg
