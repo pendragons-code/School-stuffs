@@ -2,6 +2,8 @@ reducing balance method:  rate(cost - acc depn) = depn for the period
 straight line method:  rate(cost)= depn for the period
 
 
+Depreciation is an accounting method of allocating the cost of a tangible asset over its useful life to account for declines in value over time.
+
 reasons of depreciation:
 
   Usage
