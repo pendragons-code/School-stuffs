@@ -36,7 +36,6 @@ School-stuffs
     ├── Interactions business and stakeholders.jpg
     ├── Proprietorships2.jpg
     ├── Proprietorships.jpg
-    ├── source credit.txt
     └── Stakeholders actions.jpg
 ```
             
