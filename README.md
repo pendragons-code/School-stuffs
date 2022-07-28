@@ -1,21 +1,8 @@
 # For Classmates:
-       Tap view code to get out of readme blob and navigate around.
-
-
-# School-stuffs
-A drive to contain all of my school stuff. Apparently I reached the limit of google drive so idk man.
-
-
-      
-Assets = liability + equity     
-      
-Capital +income - expense - drawings      
-
-
-If you feel like cloning
-```
-git clone -b POA https://github.com/pendragons-code/School-stuffs
-```
+       Tap view code to get out of readme blob and navigate around.          
+       
+Files are items that contain content. A folder is a bunch of files.          
+              
 File system:
 ```
 School-stuffs
@@ -41,6 +28,21 @@ School-stuffs
     ├── Proprietorships.jpg                                        [Files]
     └── Stakeholders actions.jpg                                   [Files]
 ```
+# School-stuffs
+A drive to contain all of my school stuff. Apparently I reached the limit of google drive so idk man.
+
+
+      
+Assets = liability + equity     
+      
+Capital +income - expense - drawings      
+
+
+If you feel like cloning
+```
+git clone -b POA https://github.com/pendragons-code/School-stuffs
+```
+
             
             
             
