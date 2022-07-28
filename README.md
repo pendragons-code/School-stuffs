@@ -1,8 +1,10 @@
+# For Classmates:
+       Tap view code to get out of readme blob and navigate around.
+
+
 # School-stuffs
 A drive to contain all of my school stuff. Apparently I reached the limit of google drive so idk man.
 
-For my classmates:            
-      To navigate, just tap/click `view code` and move around.
 
       
 Assets = liability + equity     
@@ -17,27 +19,27 @@ git clone -b POA https://github.com/pendragons-code/School-stuffs
 File system:
 ```
 School-stuffs
-│     [Files]
-├── accounting cycles.txt
-├── accounting theory.txt
-├── README.md
+│
+├── accounting cycles.txt     [Files]
+├── accounting theory.txt     [Files]
+├── README.md                 [Files]
 │
 │     [Folder]
-├── Definitions and reasons
-│   ├── depreciation.txt
-│   ├── expenditures, definitions and accountant qualities.txt
-│   ├── income and expenses.txt
-│   ├── Internal control.txt
-│   ├── Ledger types.txt
-│   ├── Liabilities.txt
-│   └── Source documents.txt
+├── Definitions and reasons [Folder]
+│   ├── depreciation.txt                                           [Files]
+│   ├── expenditures, definitions and accountant qualities.txt     [Files]
+│   ├── income and expenses.txt                                    [Files]
+│   ├── Internal control.txt                                       [Files]
+│   ├── Ledger types.txt                                           [Files]
+│   ├── Liabilities.txt                                            [Files]
+│   └── Source documents.txt                                       [Files]
 │
-│     [Folder]
-└── stakeholders
-    ├── Interactions business and stakeholders.jpg
-    ├── Proprietorships2.jpg
-    ├── Proprietorships.jpg
-    └── Stakeholders actions.jpg
+│     
+└── stakeholders [Folder]
+    ├── Interactions business and stakeholders.jpg                 [Files]
+    ├── Proprietorships2.jpg                                       [Files]
+    ├── Proprietorships.jpg                                        [Files]
+    └── Stakeholders actions.jpg                                   [Files]
 ```
             
             
