@@ -9,10 +9,11 @@ Assets = liability + equity
 Capital +income - expense - drawings      
 
 
-File system:
+If you feel like cloning
 ```
 git clone -b POA https://github.com/pendragons-code/School-stuffs
 ```
+File system:
 ```
 School-stuffs
 │     [Files]
