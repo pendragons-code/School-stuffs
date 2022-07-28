@@ -20,11 +20,11 @@ File system:
 ```
 School-stuffs
 │
-├── accounting cycles.txt     [Files]
-├── accounting theory.txt     [Files]
-├── README.md                 [Files]
+├── accounting cycles.txt                                          [Files]
+├── accounting theory.txt                                          [Files]
+├── README.md                                                      [Files]
 │
-│     [Folder]
+│
 ├── Definitions and reasons [Folder]
 │   ├── depreciation.txt                                           [Files]
 │   ├── expenditures, definitions and accountant qualities.txt     [Files]
