@@ -11,6 +11,9 @@ Capital +income - expense - drawings
 
 File system:
 ```
+git clone -b POA https://github.com/pendragons-code/School-stuffs
+```
+```
 School-stuffs
 │     [Files]
 ├── accounting cycles.txt
