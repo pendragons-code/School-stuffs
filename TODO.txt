@@ -1,2 +1,1 @@
-[1] Add readme
-[2] Add reactivity series, folders by topics and items with relation to the topics.
+[1] Add a README.md
