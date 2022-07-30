@@ -20,3 +20,14 @@ calcium oxide + silica → calcium silicate
 CaO(s) + SiO2(s) → CaSiO3(l)
 
 This reaction is a neutralisation reaction. Calcium oxide is basic (as it is a metal oxide) and silica is acidic (as it is a non-metal oxide).
+
+
+Products and chemical reactions that take place:
+Carbon dioxide: When coke burns in a blast of hot air to produce carbon dioxide, heat also gets produced.
+Carbon monoxide: When the carbon dioxide rises, it reacts with more coke to form.
+Haematite to iron: The carbon monoxide reduces the iron (III) oxide to form, the iron formed is molten
+Impurities are removed: Limestone (calcium carbonate) is decomposed by heat to produce carbon dioxide and calcium oxide.
+The calcium oxide (basic) also reacts to silicon dioxide (silicon is not a metal, reminder), that is acidic. This allows it to remove impurities in the haemetite and comes out as slag(calcium silicate).
+
+Hot waste gases containing carbon monoxide, carbon dioxide and nitrogen escape through the top of the furnace.
+The molten slag runs to the bottom of the furnace and it floats to the top of the motlern iron. The slag and iron are then tapped off seperately.
