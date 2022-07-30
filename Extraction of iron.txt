@@ -1,7 +1,7 @@
 Raw material	Contains	Function
 Iron ore (haematite)	| Iron(III) oxide	  | A compound that contains iron
 Coke	                | Carbon	          | Burns in air to produce heat, and reacts to form carbon monoxide (needed to reduce the iron oxide)
-Limestone	         | Calcium carbonate | Helps to remove acidic impurities from the iron by reacting with them to form molten slag
+Limestone	        | Calcium carbonate   | Helps to remove acidic impurities from the iron by reacting with them to form molten slag
 Air	                | Oxygen	          | Allows the coke to burn, and so produces heat
 
 
