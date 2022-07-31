@@ -4,10 +4,11 @@ Cacium
 Manesium
 Aluminium
 Carbon
-Zebra
+Zinc
 
 Iron
 Lead
+Hydrogen
 Copper
 Silver
 
