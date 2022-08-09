@@ -1,0 +1,12 @@
+non-metals --> + O₂ to become a non-metal oxide
+	--> Neutral --> H₂O
+	--> Acidic  --> + H₂O --> acids
+
+metals --> + O₂
+	--> amphoteric
+		--> Lead oxide, zinc oxide and aluminium oxides (Al₂O₃)
+		--> reacts to both acids and alkali
+
+	--> Basic
+		--> insoluble --> Bases
+		--> soluble --> + H₂O --> alkali
