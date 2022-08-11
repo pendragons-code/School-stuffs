@@ -18,6 +18,7 @@ School-stuffs
 │   ├── income and expenses.txt                                    [Files]
 │   ├── Internal control.txt                                       [Files]
 │   ├── Ledger types.txt                                           [Files]
+│   ├── dishonored cheque.txt                                      [Files]
 │   ├── Liabilities.txt                                            [Files]
 │   └── Source documents.txt                                       [Files]
 │
