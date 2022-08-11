@@ -1,8 +1,8 @@
-Receipt: Acknowledges payment received from the customers immediatey after the business has sold goods for provided services on credit.
+Receipt: Acknowledges payment received from the customers immediatey after the business has sold goods or provided services on credit.
 
 Invoice:  Informs credit customer of the amount owed after the business sold goods/provided services on credit.
 
-Remmitance Advice: Informs credit supplier that payment for a specifi invoice by cheque has been made.
+Remmitance Advice: Informs credit supplier that payment for a specific invoice by cheque has been made.
 
 Credit note: Reduces the amount owed by credit customers who were previously overcharged or when goods have been returned.
 

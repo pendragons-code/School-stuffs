@@ -24,3 +24,6 @@ revenue expenditure:
   cost to operate repair and maintain the NCA in working condition
   provides benefits within 1 financial year
   recorded as expense
+
+Owners's equity:
+  Owner’s equity is the owner’s interest or claim on the assets of the business. Owners’ Equity = Owners’ Capital at the Beginning + Additional Capital + Profits – Losses – Drawings

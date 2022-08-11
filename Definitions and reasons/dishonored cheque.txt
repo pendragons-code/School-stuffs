@@ -1,0 +1,7 @@
+Dishonored cheques are recorded as a decrease from the cash at bank account. The cash discount that has previously been given will also be withdrawn.
+Reasons why a cheque may be dishonored includes:
+	Cheque has expired.
+	Cheque is post-dated. (money will not be sent now, until the date that is stated on the cheque)
+	Information on cheque is not consistent. (Amount written in numbers does not tally to the amount written in letters)
+	Information on cheque is not complete. (There is no date, amount to be paid, recipient or signature)
+	Payer's bank account is frozen, closed or does not have enough funds to carry out the transaction
