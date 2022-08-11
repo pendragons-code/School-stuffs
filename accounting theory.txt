@@ -33,6 +33,8 @@ Historical cost
 matching
   Expenses incurred must be matched against income earned in the same period to determine the profit for that period.
 
+  [COS] The cost incurred to buy inventory must be matched against the sales revenue made for the sales of the inventory. Whenever there is a sale, the cost of the inventory is recognized as the cost of sales.
+
   [TR] The business will record changes in allowance of impairment of trade receivables in the same financial period as credit sales was earned. The matching of expenses incurred to the income earned is in accordance to the matching theory. This expenses will be reported in the statement of financial performance.
 
   [NCA] When a business use non-current assets to generate income, a portion of the original cost of the non-current assets has to be recorded as depreciation expense in the statement of financial performance. It will be matched against the income earned for the same financial period to arrive at the profit for the period.
