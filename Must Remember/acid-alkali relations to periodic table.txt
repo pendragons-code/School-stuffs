@@ -10,3 +10,7 @@ metals --> + O₂
 	--> Basic
 		--> insoluble --> Bases
 		--> soluble --> + H₂O --> alkali
+
+
+
+To determine whether a substance is an acid or a base, count the hydrogens on each substance before and after the reaction. If the number of hydrogens has decreased that substance is the acid (donates hydrogen ions). If the number of hydrogens has increased that substance is the base (accepts hydrogen ions).
