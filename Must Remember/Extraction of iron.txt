@@ -1,0 +1,28 @@
+Raw material			Contains			Function
+Iron ore (haematite)	| Iron(III) oxide	  | A compound that contains iron
+Coke	                | Carbon	          | Burns in air to produce heat, and reacts to form carbon monoxide (needed to reduce the iron oxide)
+Limestone	        | Calcium carbonate       | Helps to remove acidic impurities from the iron by reacting with them to form molten slag
+Air	                | Oxygen	          | Allows the coke to burn, and so produces heat
+
+Combustion of Coke:
+	1) C + O₂ - > CO₂
+Coke to Carbon monoxide:
+	2) C + CO₂ -> 2CO
+Using Carbon monoxide to remove oxygen from the haemetite. Carbon monoxide is looking for 1 more O so it acts as a really powerful snatching agent.:
+	3) 3CO + Fe₂O₃ - >3CO₂ + 2Fe
+Getting limestone to get lime out(calcium oxide) for purifiaction. The carbo dioxide comes from combustion
+	4) CaCO₃ -> CaO + CO₂
+Getting lime to react with Silicon dioxide (sand and impurities) to purify the iron.
+	5) CaO + SiO₂ -> CaSiO₃
+
+
+
+Products and chemical reactions that take place:
+Carbon dioxide:  Carbon dioxide is formed when coke is burnt in hot air and when limestone is decomposed at high temperature.
+Carbon monoxide: When the carbon dioxide rises, it reacts with more coke to form.
+Haematite to iron: The carbon monoxide reduces the iron (III) oxide to form, the iron formed is molten
+Impurities are removed: Limestone (calcium carbonate) is decomposed by heat to produce carbon dioxide and calcium oxide.
+The calcium oxide (basic) also reacts to silicon dioxide (silicon is not a metal, reminder), that is acidic. This allows it to remove impurities in the haemetite and comes out as slag(calcium silicate).
+
+Hot waste gases containing carbon monoxide, carbon dioxide and nitrogen escape through the top of the furnace.
+The molten slag runs to the bottom of the furnace and it floats to the top of the motlern iron. The slag and iron are then tapped off seperately.
