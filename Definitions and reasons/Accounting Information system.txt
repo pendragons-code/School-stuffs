@@ -1,0 +1,8 @@
+What:
+  The Accounting Information System (AIS) is a system that a business uses to collect store and process accounting data.
+
+Why does it exist:
+  Financial reports can be prepared from the AIS so that the stakeholders can use the information for decision making
+
+Extra:
+  They are often computerized fo fost businesses.
