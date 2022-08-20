@@ -9,3 +9,7 @@ Credit note: Reduces the amount owed by credit customers who were previously ove
 Debit note: Incrases the amount owed by credit customers who were previously undercharged.
 
 Payment voucher: Processes payment to credit suppliers. (must be approved by authorized personnel and must be supported by original supplier's invoice.)
+
+
+
+The general purpose of a source document is that they provide evidence to capture the occurrence of a transaction. The transaction is recorded at the original cost that it occurred.
