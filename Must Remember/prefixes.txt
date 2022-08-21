@@ -3,3 +3,7 @@ eth: 2
 prop: 3
 but: 4
 pent: 5
+
+It should also be noted that the usage of tonnes in this topis is very commonplace:
+
+1 tonne = 1000kg
