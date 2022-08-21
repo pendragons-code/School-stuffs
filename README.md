@@ -6,28 +6,28 @@ Files are items that contain content. A folder is a bunch of files.
 File system:
 ```
 School-stuffs
-│
-├── accounting cycles.txt                                          [Files]
-├── accounting theory.txt                                          [Files]
-├── README.md                                                      [Files]
+├── accounting cycles.txt
+├── accounting theory.txt
 │
 │
-├── Definitions and reasons [Folder]
-│   ├── depreciation.txt                                           [Files]
-│   ├── expenditures, definitions and accountant qualities.txt     [Files]
-│   ├── income and expenses.txt                                    [Files]
-│   ├── Internal control.txt                                       [Files]
-│   ├── Ledger types.txt                                           [Files]
-│   ├── dishonored cheque.txt                                      [Files]
-│   ├── Liabilities.txt                                            [Files]
-│   └── Source documents.txt                                       [Files]
+├── Definitions and reasons
+│   ├── Accounting Information system.txt
+│   ├── depreciation.txt
+│   ├── dishonored cheque.txt
+│   ├── expenditures, definitions and accountant qualities.txt
+│   ├── income and expenses.txt
+│   ├── Internal control.txt
+│   ├── Ledger types.txt
+│   ├── Liabilities.txt
+│   └── Source documents.txt
 │
-│     
-└── stakeholders [Folder]
-    ├── Interactions business and stakeholders.jpg                 [Files]
-    ├── Proprietorships2.jpg                                       [Files]
-    ├── Proprietorships.jpg                                        [Files]
-    └── Stakeholders actions.jpg                                   [Files]
+│
+└── stakeholders
+    ├── Interactions business and stakeholders.jpg
+    ├── Proprietorships2.jpg
+    ├── Proprietorships.jpg
+    └── Stakeholders actions.jpg
+
 ```
 # School-stuffs
 A drive to contain all of my school stuff. Apparently I reached the limit of google drive so idk man.
