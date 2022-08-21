@@ -1,0 +1,6 @@
+remember the base formula: Molar mass = mass in grams/number of moles in a substance
+
+There were some interesting things that I noticed from the open source marker's report within and outside xinmin + comments from teachers
+1) Students tend to take the wrong number (proton number), when they shoule be taking the molecular mass/nucleon number. If you forget, just look out for the bigger number.
+2) In some questions, students do not know the units. Especially the ones that involve tonnes
+3) Students sometimes add grams and units they should not be adding (this really depends on the question so look out)
