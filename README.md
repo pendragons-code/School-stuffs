@@ -25,3 +25,6 @@ It is easier to hope that the exams cover Korean war instead as in terms of cont
 [.] USSR
 
 ```
+# Concerns
+
+I was told that a lot of people are concerned with the fact that the items are not lined in chronological order + I have basically been pasting a better version of the TYS answers i uploaded on another repo, but really, i am sure that these notes will genuinely help you.
