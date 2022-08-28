@@ -36,7 +36,7 @@ A drive to contain all of my school stuff. Apparently I reached the limit of goo
       
 Assets = liability + equity     
       
-Capital +income - expense - drawings      
+Equity = Capital + income - expense - drawings      
 
 
 If you feel like cloning
@@ -45,6 +45,12 @@ git clone -b POA https://github.com/pendragons-code/School-stuffs
 ```
 
             
+            
+            ```
+            Todos:
+              Fix some typos.
+              Look at the sets MDM huda gave us and update all the stuff.
+            ```
             
             
             
