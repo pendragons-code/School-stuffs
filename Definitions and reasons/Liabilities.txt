@@ -4,7 +4,7 @@ Bank Loan:
 	A bank loan is reapid when the business makes regular cash payment in equal instalments over the loan period or a one time lump sum payment at the end of the loan period.
 
 Bank Overdraft:
-	Bank overdraft, the business withdraws more than what its deposits in the bank account, up to the agreed limiti with the bank.
+	Bank overdraft, the business withdraws more than what its deposits in the bank account, up to the agreed limit with the bank.
 	A bank overdraft is recorded as a current liability.
 	A bank overdraft is settled when a business deposits cash into the business abnk account within the year to reduce the overdraft.
 
