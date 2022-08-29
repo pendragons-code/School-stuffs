@@ -11,3 +11,9 @@ Report:
 
 Close:
   After the financial statements are finalized, income, expenses, income summary, drawings and dividends accounts are closed by first passing journal entries before being posted to the ledger. Accounts must be closed at the end of the financial year only one time.
+
+
+
+
+
+Source Documents, Journal, Ledger, Trial Balance and Financial Statements
