@@ -5,4 +5,4 @@ Why does it exist:
   Financial reports can be prepared from the AIS so that the stakeholders can use the information for decision making
 
 Extra:
-  They are often computerized fo fost businesses.
+  They are often computerized for most businesses.
