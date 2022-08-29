@@ -14,7 +14,7 @@ Accrual basis of accounting
 
 
 Consistency
-  Once an accounting method is chosen, this ethod should be applied to all future accounting periods to enable meaningful comparison.
+  Once an accounting method is chosen, this method should be applied to all future accounting periods to enable meaningful comparison.
   
   [NCA] Unless there is a change in usage pattern, a business should use the same method of depreciation and rate of depreciation every financial period to enable meaningful comparison of net book value and NCA over time.
 
