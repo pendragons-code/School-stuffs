@@ -64,7 +64,7 @@ prudence
 
   [Inv] When the net realizable value of inventory falls below the original cost, the business must reduce the the value of the inventory and record the potential loss as impairment loss of inventory even thought the inventory has not been sold.
   
-  [TR] At the end of each financial period the business will estimate losses from debts that will be unpaid. This estimated sum will be recorded in the statement of financial position and is shown as a deduction against the book value of trade receivables. This is to ensure that trade receivabes balance is not overstated and reflects the net amount that is collectible.
+  [TR] At the end of each financial period the business will estimate losses from debts that will be unpaid. This estimated sum will be recorded in the statement of financial position and is shown as a deduction against the book value of trade receivables. This is to ensure that trade receivables balance is not overstated and reflects the net amount that is collectible.
   
   
   
