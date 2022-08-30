@@ -1,0 +1,7 @@
++ ==> equities [Claim by the owner on the net assets of a business.]
++
++ ==> income [Amount earned from activities of the business]
++ ==> expenses [Cost incurred to earn income in the same accounting period]
+
+
+You can also derive to the numerical value of equities via the arithmetical deduction of liabilities from the assetoric items from the business.
