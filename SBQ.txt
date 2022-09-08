@@ -1,0 +1,69 @@
+[ICE]:
+	ICE is a simple format that helps you deliever your Inference, evidence and explanation.
+
+	Inference: the main point
+	Content: evidence
+	Explanation: Do I need to explain the explanation that is the explanation of explanation?
+	
+	Here is the common issue that students often encounter: tunnel vision, it seems that the studentskeep thinking that there is only one and one outcome only.
+	So by now everyone has heard of the half full half empty paradox.
+	
+	So if the source is kinda like that paradox, it means that you can end up with 2 different ICEs
+
+[With reference to the half cup and ICE]:
+	you can say the half empty is a bad thing, show the cup is half empty and explain why the half empty cup is bad. However, you can also say that the cup is half full, present the evidence that the cup is half full and explain that it is better than nothing in the cup.
+
+	This means that there is more than 1 way of getting a really good answer.
+
+
+
+
+[Why is knowing this important?]:
+	Understanding that ICE is very flexible and putting it in same limits (insane e.g. THE CUP IS HALF EMPTY BECUASE THE ALIENS TOOK IT!!!). However, students sometimes do not put a sane limit because the overwhelming amounts of information tends to make the question really hard to answer.
+
+	This flexibility is why Reliability/utility, VAMO and assertion is just ICE everywhere.
+
+
+	Combine the sane limits + flexibile nature of ICE and right info (origin of the source), you get a well written answer.
+
+
+[ICE in Reliability]
+	quote from someone who wants to try a banana boat, but has not used one
+		source A: banana boats are cool, i wanna try one
+
+
+	quote from banana boat user
+		source B: banana boats are fun and awesome
+
+
+	How useful is source A at telling us that banana boats are good.
+
+	I: Source A is very useful at  telling us that banana boats are good.
+
+	C: In Source A, "banana boats are cool, i wanna try one" and in B "Banana boats are fun and awesome", 
+
+	E: the source tell us that the banana boats are good as  when I cross refer to the 2 sources, 1 from a person who has yet to try a banana boat and another that has already tried riding boats and use it, they both have similar praises for the boat. The person in A says that he would want to try riding one, which tells us that riding one is an activity that is enjoyable, a consistency that was also mentioned by a banana boat user in B. The consistency of the fact that banana boats are good and fun tells me that the sources both agree that the boats are good. Since Source B supports Source A, Source A is more reliable and thus useful at telling us banana boats are good.
+
+
+
+	So yes, ICE is very easily seen in reliability/hybrid/utility
+
+
+[ICE in VAMO]:
+	
+	published on a newspaper by a journalist covering the industry, this journalist was not sponsored.
+	"BANANA BOATS ARE AWESOME THEY ARE NICE TO RIDE AND YOU SHOULD GO!!! I had so much fun riding it and I enjoyed my time."
+
+
+
+qtn: what is the purpose of this source?
+
+	I: This source is published to convince [verb] readers fo the newspaper [audience] to ride banana boats.
+
+	C: "BANANA BOATS ARE AWESOME THEY ARE NICE TO RIDE AND YOU SHOULD GO!!! I had so much fun riding it and I enjoyed my time."
+
+	E (explaining why it is written to convince people to ride banana boats.): The message of the souce is that riding banana boats is an experience that brings joy, excitement and pleasure. [M] the source tells us that the experience was very good, which the author used the "awesome" to convey the idea and "YOU SHOULD GO!!!" is a call to action that encourage the people to experience riding the banana boat. This leads to people wanting to ride banana boats especially since the person covering it is a journalist that was not sponsored, which increases the reliability of the source since it is a genuine review and not an advertisement that was made only due to a financially inspired review, which is often done in newspaper under the payroll sponsored by a company (C.K.). Knowing that, people looking for fun is convinced to go try riding banana boats.
+
+
+
+
