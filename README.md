@@ -1,5 +1,1 @@
-# main
-I am not done.
-
-# Meanwhile
-Play some [pacman](https://game.senghong.xyz)
+Uploading some notes and stuff here since i am out of space on google drive.
