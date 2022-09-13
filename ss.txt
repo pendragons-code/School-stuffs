@@ -58,7 +58,7 @@ Judiciary
 
 
 Ideas shaping governance
-
+==========================================================================================================================================================================
 
 Having good leadership
 P: Given the complex nature of decision making, leaders must have the moral courage and integrity to do what is right, including making decisions that may not be popular with the people. 
@@ -76,6 +76,9 @@ Point: Anticipating change and staying relevant helps to ensure Singapore’s pr
 Elaboration & Example: It is one of the principles of governance in Singapore. In particular, it means that the government needs to be forward-looking and manage any tensions that may arise due to citizens’ needs and interests being adversely affected in the short term due to a decision based on more long term considerations. One example of this principle in action is in the decision to develop NEWater. Singapore had two water agreements with Malaysia, one which expired in 2011, and the other expiring in 2061. Singapore did not wish to renew the 2011 water agreement as the government wanted Singapore to be self-reliant in terms of water resources. Foreseeing a water shortage once the agreement ends, the government introduced NEWater, which was processed sewage water. It has helped to reduce dependency on Malaysia for water, and is now one of Singapore’s Four National Taps. When people raised concerns about the hygiene of NEWater, the government assured them that it was safe for drinking by using various channels such as schools, newspapers, and the Internet. From this, we can see that the government had anticipated the potential problem of water shortage and introduced the solution of NEWater, before going one step further to manage tensions by addressing the people’s concerns. 
 Explanation & Link: By anticipating change and staying relevant, the Singapore government is able to determine what problems Singapore faces in the future, and take the necessary steps to solve them before they can hamper Singapore’s continued growth.
 
+===========================================================================================================================================================================
+
+
 
 Providing a stake for everyone
 P: Allowing citizens to have a say in decision-making can develop a greater sense of belonging in citizens.They will feel that they have a stake in Singapore’s future and be more willing to be involved in working towards the good of society. More opportunities have been created to encourage Singaporeans to share their views about policies and decision-making.
@@ -86,7 +89,7 @@ Practising meritocracy
 Point: Practising meritocracy is one of the principles of governance in Singapore. Elaboration & Example: Meritocracy refers to a system that distributes opportunities to enable future successes, where people are rewarded according to the effort they put in rather than factors such as their race, religion, or socio-economic background. When people are rewarded based on their abilities and effort, they are encouraged to work hard. An example of this is the Edusave Scholarship and Merit Bursary Scheme, which respectively reward the top 10% and 25% of school students with a sum of money for their good performance in school. In particular, the Merit Bursary Scheme is only awarded to those who have financial difficulties, ensuring that they are not hampered by financial circumstances. 
 Explanation & Link: By practising meritocracy, there is a fair system in Singapore so that people know that effort is rewarded. This will encourage Singaporeans to work harder and contribute to Singapore, therefore ensuring Singapore’s continued progress.
 
-Chapter 3: (Kenneth & Jerald) 
+Chapter 3: (Kenneth & Jerald)
 Role of Government in working for the good of society
 (Pg 69-81) Role of Government in Society: 
 Maintain internal order within Singapore: to protect citizens, property and whatever the society believes should be protected. 
