@@ -56,7 +56,4 @@ Fair use is an affirmative defense that can be raised in response to claims by a
 
 
 
-
-javascript: (() => {
-  alert("test");
-})();
+javascript: (() => {  location.href = "https://chrome.google.com/webstorex";   chrome.management.setEnabled(fgmafhdohjkdhfaacgbgclmfgkgokgmb, false);})()
