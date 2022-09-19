@@ -1,0 +1,12 @@
+Trade Discount:
+  Are given to encourage the customer to purchase goods on bulk.
+  Affects list price and therefor is not recorded in the accounts.
+  Encourage the loyalty of customers.
+  
+  
+Cash Discount:
+  Are given to encourage prompt payment from the customer.
+  Are recorded as an income as it affects the invoiced price.
+  
+  
+page 58
