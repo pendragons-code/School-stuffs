@@ -1,3 +1,7 @@
+Capital:
+  The resource contributed by owner for business use.
+
+
 Accounting Entity:
   The activities of a business are seperate from the actions of the owner. All transactions are recorded from the point of view from the business.
 
