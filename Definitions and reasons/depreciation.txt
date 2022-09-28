@@ -4,6 +4,19 @@ straight line method:  rate(cost)= depn for the period
 
 Depreciation is an accounting method of allocating the cost of a tangible asset over its useful life to account for declines in value over time.
 
+
+Straight line reduction method should be used for assets with consitent use over its useful life.
+Reduction balance method should be used to record assets that have more usages in the earlier parts of its life and therefor should have the higher amount should be recorded earlier in the lifespan and reduced over time.
+
+
+
+
+
+
+
+
+
+
 reasons of depreciation:
 
   Usage
