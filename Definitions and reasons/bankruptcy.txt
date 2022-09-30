@@ -1,4 +1,13 @@
-Reversal:
-Allowance for impairment of TR
-  Impairment loss on trade receivables
+Creating and increasing an allowance:
+	Impairment for Trade Receivables (Expense)
+		Allowance for impairment of trade receivales (contra-asset)
 
+Decreasing the allowance (without writing off):
+	Allowance for impariment of trade receivales (contra-asset)
+		Reversal of impairment of trade receivables (expense)
+	
+	Note: reversal is recorded in less other expense with brackets
+
+Writing off debt:
+	Allowance of impairment of trade receivables
+		trade receivables
