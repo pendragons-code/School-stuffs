@@ -1,0 +1,2 @@
+cash transactions have payment(s) made at the same time during the cash sale
+credit transactions have payment postponed during a credit sale.
