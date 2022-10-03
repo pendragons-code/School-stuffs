@@ -12,7 +12,10 @@ School-stuffs
 │
 ├── Definitions and reasons
 │   ├── Accounting Information system.txt
+│   ├── assets.txt
+│   ├── bankruptcy.txt
 │   ├── depreciation.txt
+│   ├── discount.txt
 │   ├── dishonored cheque.txt
 │   ├── expenditures, definitions and accountant qualities.txt
 │   ├── income and expenses.txt
