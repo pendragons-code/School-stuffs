@@ -2,3 +2,6 @@ A reactions that releases light heat or any form of energy.
 
 In thermodynamics, the term exothermic process describes a process or reaction that releases energy from the system to its surroundings, usually in the form of heat, but also in a form of light, electricity, or sound. Its etymology stems from the Greek prefix έξω and the Greek word θερμικός. Wikipedia
 -wikipedia. Open source is cool.
+
+
+endothermic is the opposite
