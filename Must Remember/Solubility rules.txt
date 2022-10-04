@@ -1,18 +1,18 @@
-===========================================
-| Soluble            | Insoluble salts    |
-===========================================
-| sodium salts       |                    |
-| potassium salts    |                    |
-| ammonium salts     |        Null        |
-| all nitrates       |                    |
-===========================================
-| all chlorides      | AgCl PbCl₂         |
-===========================================
-| all sulfates       | BaSO₄, PbSO₄,CaSO₄ |
-===========================================
-| sodium carbonate   |                    |
-| potassium chloride | All carbonates     |
-| ammonium carbonate |                    |
-===========================================
+============================================
+| Soluble             | Insoluble salts    |
+============================================
+| sodium salts        |                    |
+| potassium salts     |                    |
+| ammonium salts      |        Null        |
+| all nitrates        |                    |
+============================================
+| all chlorides       | AgCl PbCl₂         |
+============================================
+| all sulfates        | BaSO₄, PbSO₄,CaSO₄ |
+============================================
+| sodium carbonate    |                    |
+| potassium carbonate | All carbonates     |
+| ammonium carbonate  |                    |
+============================================
 
 All oxides and hydroxides are insoluble, except for potassium, ammonium and sodium.
