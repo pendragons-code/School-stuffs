@@ -1,0 +1,9 @@
+Adjusted balance as per cash at bank account
+
+Add: deposits in transits
+Debit in CAB account come here.
+
+Less: Cheques not yet presented
+Credit come here.
+
+Adjusted balance as per cash at bank account
