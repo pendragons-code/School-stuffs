@@ -1,0 +1,12 @@
+| Test type               | Test in question
+==========================================================================
+|                         | Lighted splint is extinguished and there is a 
+| Test for Hydrogen       |"pop" sound.
+|                         |
+| Test for Oxygen         | Glowing splint is rekindled.
+|                         |
+| Test for Carbon Dioxide | A white precipitate is formed. 
+|                         |(The precipitate dissolves upon further bubbling)
+|                         |
+| Test for ammonia        | The moist red litmus paper turns blue.
+===========================================================================
