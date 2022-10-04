@@ -1,4 +1,4 @@
-Adjusted balance as per cash at bank account
+balance as per bank statement
 
 Add: deposits in transits
 Debit in CAB account come here.
