@@ -4,17 +4,23 @@ Capital:
 
 Accounting Entity:
   The activities of a business are seperate from the actions of the owner. All transactions are recorded from the point of view from the business.
-
+  
+  [Elements of Financial statements and the accounting equation.] According to the accounting entity theory. only transactions that affect the business are recorded while transactions relating to the ownder that does not affect the business are not recorded.
 
 
 Accounting Period
   The life of the bussiness is divded into regular time intervals.
+  
+  [Trial balance and financial statements] As businesses are assumed to operate forever (going concern), financial statements should be prepared at regular time intervals (accounting period theory) to provide timely information for stakeholders to make decisions.
 
 
 
 Accrual basis of accounting
   Business activities that have occurred, regardless of whether cash is paid or received, should be recorded in the relevant accounting period.
-
+  
+  [Revenue and other income] Based on the accrual basis of accounting, other income earned but not received must be recorded as other income in the current financial period (page 97)
+  
+  [cost of sales and other expenses] Business may have used services, such as repair or utilities but have not paid for them yet. Such expenses are known as expensese payable. Such expenses must be recognised in the period the services have been used, regardless of weather they have been paid for or not.
 
 
 Consistency
@@ -27,10 +33,15 @@ Consistency
 Going Concern
   A business is assumed to have an indefinite economic life unless there is credible evidence that it may close down.
 
+  [Trial balance and financial statements] As businesses are assumed to operate forever (going concern), financial statements should be prepared at regular time intervals (accounting period theory) to provide timely information for stakeholders to make decisions.
+
 
 
 Historical cost
   Transactions should be recorded at their original cost. And must record assets at original price even if market value has increased.
+
+  [AIS] A source document provides evidence (objectivity theory) to capture occurrence of a transaction. The transaction is recorded at the original cost that it occurred.
+
 
 
 
@@ -56,11 +67,13 @@ materiality
 monetary
   Only business transactions that can be measured in monetary terms are recorded.
 
+  [AIS] Only the business activities that can be expressed in monetary terms are recorded in the businesses's books 
 
 
 objectivity
   Accounting information recorded must be supported by reliable and verifiable evidence so that financial statements will be free from opinions and biases.
-
+  
+	[AIS] A source documents provides evidence (objectivity theory) to capture occurrence of the transaction.
 
 
 prudence
@@ -73,4 +86,5 @@ prudence
   
   
 revenue recognition
-  Revenue is earned when goods have been delivered of services have been provided. 
+  Revenue is earned when goods have been delivered of services have been provided.
+  remember to split the types accoridingly to the question: e.g. Revenue is earned when goods have been delievered in a trading business.
