@@ -7,3 +7,10 @@ Less: Cheques not yet presented
 Credit come here.
 
 Adjusted balance as per cash at bank account
+
+
+
+To check the cash at bank balance of the business against the balance on the bank statement and account for the differences. 
+Identify errors in the cash at bank and bank statement
+Update the cash at bank account
+Help discover fraud
